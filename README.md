@@ -3,7 +3,7 @@
 
 Scripts and data processing notes for Russian whole-exome sequencing AF paper
 
-<img src="https://github.com/anton-shikov/ACE2/blob/master/Fig2_1-1.png.png?sanitize=true">
+<img src="https://github.com/anton-shikov/ACE2/blob/master/Fig2_1-1.png?sanitize=true">
 
 ## Contents 
 
