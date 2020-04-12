@@ -3,7 +3,7 @@
 
 Scripts and data processing notes for ACE2 paper
 
-<img src="https://github.com/anton-shikov/ACE2/blob/master/Fig2_1-1.png?sanitize=true">
+<img src="https://github.com/anton-shikov/ACE2/blob/master/pics/Fig2_1-1.png?sanitize=true">
 
 ## Contents 
 
