@@ -1,7 +1,7 @@
 
 # The spectrum of variants in ACE2 in European and Russian populations 
 
-Scripts and data processing notes for Russian whole-exome sequencing AF paper
+Scripts and data processing notes for ACE2 paper
 
 <img src="https://github.com/anton-shikov/ACE2/blob/master/Fig2_1-1.png?sanitize=true">
 
